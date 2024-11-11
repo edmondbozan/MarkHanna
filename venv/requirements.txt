@@ -1,0 +1,5 @@
+ibapi
+pandas
+pandas-ta
+numpy
+schedule
