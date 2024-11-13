@@ -1247,3 +1247,375 @@ of version 954.1 or newer:  TWS: 7497; IB Gateway: 4002
 2024-11-11 10:28:34,960 INFO:SENDING reqHistoricalData b'\x00\x00\x00@20\x001\x000\x00AAPL\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x004 D\x001\x00TRADES\x001\x000\x00\x00'
 2024-11-11 10:28:35,165 INFO:disconnecting
 2024-11-11 10:28:35,165 INFO:ANSWER connectionClosed {}
+2024-11-11 11:53:34,716 INFO:sent startApi
+2024-11-11 11:53:34,716 INFO:REQUEST startApi {}
+2024-11-11 11:53:34,716 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 11:53:34,717 INFO:ANSWER connectAck {}
+2024-11-11 11:53:34,717 INFO:IB API connection started.
+2024-11-11 11:53:34,717 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4714270832: 0,AAPL,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '4 D', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 11:53:34,717 INFO:SENDING reqHistoricalData b'\x00\x00\x00@20\x001\x000\x00AAPL\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x004 D\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 11:53:34,920 INFO:disconnecting
+2024-11-11 11:53:34,920 INFO:ANSWER connectionClosed {}
+2024-11-11 11:53:42,606 INFO:sent startApi
+2024-11-11 11:53:42,607 INFO:REQUEST startApi {}
+2024-11-11 11:53:42,607 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 11:53:42,607 INFO:ANSWER connectAck {}
+2024-11-11 11:53:42,607 INFO:IB API connection started.
+2024-11-11 11:53:42,607 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4398830976: 0,AAPL,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '4 D', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 11:53:42,607 INFO:SENDING reqHistoricalData b'\x00\x00\x00@20\x001\x000\x00AAPL\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x004 D\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 11:53:42,812 INFO:disconnecting
+2024-11-11 11:53:42,812 INFO:ANSWER connectionClosed {}
+2024-11-11 11:53:53,465 INFO:sent startApi
+2024-11-11 11:53:53,465 INFO:REQUEST startApi {}
+2024-11-11 11:53:53,465 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 11:53:53,465 INFO:ANSWER connectAck {}
+2024-11-11 11:53:53,466 INFO:IB API connection started.
+2024-11-11 11:53:53,466 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4365726592: 0,AAPL,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '4 D', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 11:53:53,466 INFO:SENDING reqHistoricalData b'\x00\x00\x00@20\x001\x000\x00AAPL\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x004 D\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 11:53:53,671 INFO:disconnecting
+2024-11-11 11:53:53,671 INFO:ANSWER connectionClosed {}
+2024-11-11 11:54:41,504 INFO:sent startApi
+2024-11-11 11:54:41,504 INFO:REQUEST startApi {}
+2024-11-11 11:54:41,504 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 11:54:41,504 INFO:ANSWER connectAck {}
+2024-11-11 11:54:41,504 INFO:IB API connection started.
+2024-11-11 11:54:41,504 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4438241984: 0,AAPL,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '4 D', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 11:54:41,504 INFO:SENDING reqHistoricalData b'\x00\x00\x00@20\x001\x000\x00AAPL\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x004 D\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 11:54:41,709 INFO:disconnecting
+2024-11-11 11:54:41,710 INFO:ANSWER connectionClosed {}
+2024-11-11 11:55:15,565 INFO:sent startApi
+2024-11-11 11:55:15,565 INFO:REQUEST startApi {}
+2024-11-11 11:55:15,565 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 11:55:15,565 INFO:ANSWER connectAck {}
+2024-11-11 11:55:15,565 INFO:IB API connection started.
+2024-11-11 11:55:15,565 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4400094752: 0,AAPL,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '4 D', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 11:55:15,565 INFO:SENDING reqHistoricalData b'\x00\x00\x00@20\x001\x000\x00AAPL\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x004 D\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 11:55:15,770 INFO:disconnecting
+2024-11-11 11:55:15,771 INFO:ANSWER connectionClosed {}
+2024-11-11 11:55:35,300 INFO:sent startApi
+2024-11-11 11:55:35,300 INFO:REQUEST startApi {}
+2024-11-11 11:55:35,300 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 11:55:35,300 INFO:ANSWER connectAck {}
+2024-11-11 11:55:35,301 INFO:IB API connection started.
+2024-11-11 11:55:35,301 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4378296240: 0,AAPL,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '4 D', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 11:55:35,301 INFO:SENDING reqHistoricalData b'\x00\x00\x00@20\x001\x000\x00AAPL\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x004 D\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 11:55:35,506 INFO:disconnecting
+2024-11-11 11:55:35,506 INFO:ANSWER connectionClosed {}
+2024-11-11 11:56:21,488 INFO:sent startApi
+2024-11-11 11:56:21,489 INFO:REQUEST startApi {}
+2024-11-11 11:56:21,489 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 11:56:21,489 INFO:ANSWER connectAck {}
+2024-11-11 11:56:21,489 INFO:IB API connection started.
+2024-11-11 11:56:21,489 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4374877280: 0,AAPL,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '4 D', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 11:56:21,489 INFO:SENDING reqHistoricalData b'\x00\x00\x00@20\x001\x000\x00AAPL\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x004 D\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 11:56:21,694 INFO:disconnecting
+2024-11-11 11:56:21,694 INFO:ANSWER connectionClosed {}
+2024-11-11 11:57:10,567 INFO:sent startApi
+2024-11-11 11:57:10,568 INFO:REQUEST startApi {}
+2024-11-11 11:57:10,568 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 11:57:10,568 INFO:ANSWER connectAck {}
+2024-11-11 11:57:10,568 INFO:IB API connection started.
+2024-11-11 11:57:10,568 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4371699072: 0,AAPL,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '4 D', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 11:57:10,568 INFO:SENDING reqHistoricalData b'\x00\x00\x00@20\x001\x000\x00AAPL\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x004 D\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 11:57:10,771 INFO:disconnecting
+2024-11-11 11:57:10,771 INFO:ANSWER connectionClosed {}
+2024-11-11 11:57:34,765 INFO:sent startApi
+2024-11-11 11:57:34,765 INFO:REQUEST startApi {}
+2024-11-11 11:57:34,765 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 11:57:34,765 INFO:ANSWER connectAck {}
+2024-11-11 11:57:34,765 INFO:IB API connection started.
+2024-11-11 11:57:34,765 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4414108352: 0,AAPL,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '4 D', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 11:57:34,765 INFO:SENDING reqHistoricalData b'\x00\x00\x00@20\x001\x000\x00AAPL\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x004 D\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 11:57:34,970 INFO:disconnecting
+2024-11-11 11:57:34,970 INFO:ANSWER connectionClosed {}
+2024-11-11 11:57:47,454 INFO:sent startApi
+2024-11-11 11:57:47,454 INFO:REQUEST startApi {}
+2024-11-11 11:57:47,454 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 11:57:47,455 INFO:ANSWER connectAck {}
+2024-11-11 11:57:47,455 INFO:IB API connection started.
+2024-11-11 11:57:47,455 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4375172048: 0,AAPL,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '4 D', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 11:57:47,455 INFO:SENDING reqHistoricalData b'\x00\x00\x00@20\x001\x000\x00AAPL\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x004 D\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 11:57:47,660 INFO:disconnecting
+2024-11-11 11:57:47,660 INFO:ANSWER connectionClosed {}
+2024-11-11 11:58:40,214 INFO:sent startApi
+2024-11-11 11:58:40,214 INFO:REQUEST startApi {}
+2024-11-11 11:58:40,214 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 11:58:40,214 INFO:ANSWER connectAck {}
+2024-11-11 11:58:40,215 INFO:IB API connection started.
+2024-11-11 11:58:40,215 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4449828784: 0,AAPL,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '4 D', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 11:58:40,215 INFO:SENDING reqHistoricalData b'\x00\x00\x00@20\x001\x000\x00AAPL\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x004 D\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 11:58:40,420 INFO:disconnecting
+2024-11-11 11:58:40,420 INFO:ANSWER connectionClosed {}
+2024-11-11 12:22:57,403 INFO:sent startApi
+2024-11-11 12:22:57,404 INFO:REQUEST startApi {}
+2024-11-11 12:22:57,404 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 12:22:57,404 INFO:ANSWER connectAck {}
+2024-11-11 12:22:57,404 INFO:IB API connection started.
+2024-11-11 12:22:57,404 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4415771840: 0,AAPL,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '4 D', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 12:22:57,404 INFO:SENDING reqHistoricalData b'\x00\x00\x00@20\x001\x000\x00AAPL\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x004 D\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 12:22:57,609 INFO:disconnecting
+2024-11-11 12:22:57,609 INFO:ANSWER connectionClosed {}
+2024-11-11 12:23:57,662 ERROR:Timeout: Data was not received within the expected time frame.
+2024-11-11 12:23:57,663 INFO:IB API connection closed.
+2024-11-11 12:27:55,292 INFO:sent startApi
+2024-11-11 12:27:55,293 INFO:REQUEST startApi {}
+2024-11-11 12:27:55,293 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 12:27:55,293 INFO:ANSWER connectAck {}
+2024-11-11 12:27:55,293 INFO:IB API connection started.
+2024-11-11 12:27:55,293 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4373987552: 0,MSFT,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '4 D', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 12:27:55,293 INFO:SENDING reqHistoricalData b'\x00\x00\x00@20\x001\x000\x00MSFT\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x004 D\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 12:27:55,498 INFO:disconnecting
+2024-11-11 12:27:55,498 INFO:ANSWER connectionClosed {}
+2024-11-11 12:28:55,566 ERROR:Timeout: Data was not received within the expected time frame.
+2024-11-11 12:28:55,568 INFO:IB API connection closed.
+2024-11-11 12:32:41,478 INFO:sent startApi
+2024-11-11 12:32:41,479 INFO:REQUEST startApi {}
+2024-11-11 12:32:41,479 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 12:32:41,479 INFO:ANSWER connectAck {}
+2024-11-11 12:32:41,479 INFO:IB API connection started.
+2024-11-11 12:32:41,479 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4733960112: 0,MSFT,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '1 hour', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 12:32:41,479 INFO:SENDING reqHistoricalData b'\x00\x00\x00C20\x001\x000\x00MSFT\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x001 hour\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 12:32:41,684 INFO:disconnecting
+2024-11-11 12:32:41,684 INFO:ANSWER connectionClosed {}
+2024-11-11 12:32:50,959 INFO:sent startApi
+2024-11-11 12:32:50,959 INFO:REQUEST startApi {}
+2024-11-11 12:32:50,959 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 12:32:50,959 INFO:ANSWER connectAck {}
+2024-11-11 12:32:50,959 INFO:IB API connection started.
+2024-11-11 12:32:50,959 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4326563360: 0,MSFT,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '1 hssssour', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 12:32:50,959 INFO:SENDING reqHistoricalData b'\x00\x00\x00G20\x001\x000\x00MSFT\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x001 hssssour\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 12:32:51,161 INFO:disconnecting
+2024-11-11 12:32:51,162 INFO:ANSWER connectionClosed {}
+2024-11-11 12:40:19,912 INFO:sent startApi
+2024-11-11 12:40:19,912 INFO:REQUEST startApi {}
+2024-11-11 12:40:19,912 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 12:40:19,912 INFO:ANSWER connectAck {}
+2024-11-11 12:40:19,913 INFO:IB API connection started.
+2024-11-11 12:40:19,913 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4426962448: 0,MSFT,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '1 hour', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 12:40:19,913 INFO:SENDING reqHistoricalData b'\x00\x00\x00C20\x001\x000\x00MSFT\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x001 hour\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 12:40:20,118 INFO:disconnecting
+2024-11-11 12:40:20,118 INFO:ANSWER connectionClosed {}
+2024-11-11 12:41:20,149 ERROR:Timeout: Data was not received within the expected time frame.
+2024-11-11 12:41:20,149 INFO:IB API connection closed.
+2024-11-11 12:47:31,126 INFO:sent startApi
+2024-11-11 12:47:31,126 INFO:REQUEST startApi {}
+2024-11-11 12:47:31,126 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 12:47:31,127 INFO:ANSWER connectAck {}
+2024-11-11 12:47:31,127 INFO:IB API connection started.
+2024-11-11 12:47:31,127 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4433845792: 0,MSFT,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '1 hour', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 12:47:31,127 INFO:SENDING reqHistoricalData b'\x00\x00\x00C20\x001\x000\x00MSFT\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x001 hour\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 12:47:31,332 INFO:disconnecting
+2024-11-11 12:47:31,332 INFO:ANSWER connectionClosed {}
+2024-11-11 12:52:23,781 ERROR:Error 502: Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket EClients" 
+is enabled and connection port is the same as "Socket Port" on the 
+TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: 
+TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations 
+of version 954.1 or newer:  TWS: 7497; IB Gateway: 4002
+2024-11-11 12:52:23,781 INFO:could not connect
+2024-11-11 12:52:23,781 INFO:disconnecting
+2024-11-11 12:52:23,781 INFO:ANSWER connectionClosed {}
+2024-11-11 12:52:23,781 INFO:IB API connection started.
+2024-11-11 12:52:23,782 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4585354256: 0,MSFT,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '1 hour', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 12:52:23,782 ERROR:Error 504: Not connected
+2024-11-11 12:54:13,889 INFO:sent startApi
+2024-11-11 12:54:13,889 INFO:REQUEST startApi {}
+2024-11-11 12:54:13,889 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 12:54:13,889 INFO:ANSWER connectAck {}
+2024-11-11 12:54:13,890 INFO:IB API connection started.
+2024-11-11 12:54:13,890 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4374713728: 0,MSFT,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '1 hour', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 12:54:13,890 INFO:SENDING reqHistoricalData b'\x00\x00\x00C20\x001\x000\x00MSFT\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x001 hour\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 12:54:13,902 INFO:ANSWER managedAccounts {'accountsList': 'DU7739458'}
+2024-11-11 12:54:13,902 INFO:ANSWER nextValidId {'orderId': 1}
+2024-11-11 12:54:13,902 INFO:Next valid order ID: 1
+2024-11-11 12:54:13,904 ERROR:Error 2104: Market data farm connection is OK:hfarm
+2024-11-11 12:54:13,904 ERROR:Error 2104: Market data farm connection is OK:usfarm.nj
+2024-11-11 12:54:13,904 ERROR:Error 2104: Market data farm connection is OK:jfarm
+2024-11-11 12:54:13,904 ERROR:Error 2104: Market data farm connection is OK:usfuture
+2024-11-11 12:54:13,904 ERROR:Error 2104: Market data farm connection is OK:cashfarm
+2024-11-11 12:54:13,904 ERROR:Error 2104: Market data farm connection is OK:eufarmnj
+2024-11-11 12:54:13,904 ERROR:Error 2104: Market data farm connection is OK:usfarm
+2024-11-11 12:54:13,904 ERROR:Error 2106: HMDS data farm connection is OK:euhmds
+2024-11-11 12:54:13,904 ERROR:Error 2106: HMDS data farm connection is OK:fundfarm
+2024-11-11 12:54:13,904 ERROR:Error 2106: HMDS data farm connection is OK:ushmds
+2024-11-11 12:54:13,904 ERROR:Error 2158: Sec-def data farm connection is OK:secdefil
+2024-11-11 12:54:13,911 ERROR:Error 321: Error validating request.-'bK' : cause - When specifying a unit, historical data request duration format is integer{SPACE}unit (S|D|W|M|Y).
+2024-11-11 12:55:14,115 ERROR:Timeout: Data was not received within the expected time frame.
+2024-11-11 12:55:14,116 INFO:disconnecting
+2024-11-11 12:55:14,117 INFO:ANSWER connectionClosed {}
+2024-11-11 12:55:14,117 INFO:IB API connection closed.
+2024-11-11 12:57:23,932 INFO:sent startApi
+2024-11-11 12:57:23,933 INFO:REQUEST startApi {}
+2024-11-11 12:57:23,933 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 12:57:23,933 INFO:ANSWER connectAck {}
+2024-11-11 12:57:23,933 INFO:IB API connection started.
+2024-11-11 12:57:23,933 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4449521920: 0,MSFT,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '171 S', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 12:57:23,933 INFO:SENDING reqHistoricalData b'\x00\x00\x00B20\x001\x000\x00MSFT\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x00171 S\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 12:57:24,138 INFO:disconnecting
+2024-11-11 12:57:24,138 INFO:ANSWER connectionClosed {}
+2024-11-11 12:58:19,153 INFO:sent startApi
+2024-11-11 12:58:19,153 INFO:REQUEST startApi {}
+2024-11-11 12:58:19,153 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 12:58:19,153 INFO:ANSWER connectAck {}
+2024-11-11 12:58:19,153 INFO:IB API connection started.
+2024-11-11 12:58:19,153 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4438400544: 0,MSFT,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '900 S', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 12:58:19,153 INFO:SENDING reqHistoricalData b'\x00\x00\x00B20\x001\x000\x00MSFT\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x00900 S\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 12:58:19,358 INFO:disconnecting
+2024-11-11 12:58:19,358 INFO:ANSWER connectionClosed {}
+2024-11-11 12:59:03,563 INFO:sent startApi
+2024-11-11 12:59:03,564 INFO:REQUEST startApi {}
+2024-11-11 12:59:03,564 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 12:59:03,564 INFO:ANSWER connectAck {}
+2024-11-11 12:59:03,564 INFO:IB API connection started.
+2024-11-11 12:59:03,564 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4327562784: 0,MSFT,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '900 dsa', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 12:59:03,564 INFO:SENDING reqHistoricalData b'\x00\x00\x00D20\x001\x000\x00MSFT\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x00900 dsa\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 12:59:03,765 INFO:disconnecting
+2024-11-11 12:59:03,765 INFO:ANSWER connectionClosed {}
+2024-11-11 13:01:34,253 INFO:sent startApi
+2024-11-11 13:01:34,253 INFO:REQUEST startApi {}
+2024-11-11 13:01:34,253 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 13:01:34,253 INFO:ANSWER connectAck {}
+2024-11-11 13:01:34,254 INFO:IB API connection started.
+2024-11-11 13:01:34,254 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4366745824: 0,MSFT,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '900 S', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 13:01:34,254 INFO:SENDING reqHistoricalData b'\x00\x00\x00B20\x001\x000\x00MSFT\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x00900 S\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 13:01:34,459 INFO:disconnecting
+2024-11-11 13:01:34,459 INFO:ANSWER connectionClosed {}
+2024-11-11 13:02:36,194 INFO:sent startApi
+2024-11-11 13:02:36,195 INFO:REQUEST startApi {}
+2024-11-11 13:02:36,195 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 13:02:36,195 INFO:ANSWER connectAck {}
+2024-11-11 13:02:36,195 INFO:IB API connection started.
+2024-11-11 13:02:36,196 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4375926240: 0,MSFT,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '900 S', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 13:02:36,196 INFO:SENDING reqHistoricalData b'\x00\x00\x00B20\x001\x000\x00MSFT\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x00900 S\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 13:02:36,206 INFO:ANSWER nextValidId {'orderId': 1}
+2024-11-11 13:02:36,206 INFO:Next valid order ID: 1
+2024-11-11 13:02:36,206 INFO:ANSWER managedAccounts {'accountsList': 'DU7739458'}
+2024-11-11 13:02:36,209 ERROR:Error 2104: Market data farm connection is OK:hfarm
+2024-11-11 13:02:36,210 ERROR:Error 2104: Market data farm connection is OK:usfarm.nj
+2024-11-11 13:02:36,210 ERROR:Error 2104: Market data farm connection is OK:jfarm
+2024-11-11 13:02:36,210 ERROR:Error 2104: Market data farm connection is OK:usfuture
+2024-11-11 13:02:36,210 ERROR:Error 2104: Market data farm connection is OK:cashfarm
+2024-11-11 13:02:36,210 ERROR:Error 2104: Market data farm connection is OK:eufarmnj
+2024-11-11 13:02:36,210 ERROR:Error 2104: Market data farm connection is OK:usfarm
+2024-11-11 13:02:36,210 ERROR:Error 2106: HMDS data farm connection is OK:euhmds
+2024-11-11 13:02:36,210 ERROR:Error 2106: HMDS data farm connection is OK:fundfarm
+2024-11-11 13:02:36,210 ERROR:Error 2106: HMDS data farm connection is OK:ushmds
+2024-11-11 13:02:36,211 ERROR:Error 2158: Sec-def data farm connection is OK:secdefil
+2024-11-11 13:02:36,329 ERROR:Error 2176: Warning: Your API version does not support fractional share size rules. Please upgrade to a minimum version 163. Trimmed value 209.07 to 209
+2024-11-11 13:02:36,329 INFO:ANSWER historicalData {'reqId': 1, 'bar': 4375928016: Date: 20241111  12:45:00, Open: 418.340000, High: 418.480000, Low: 417.970000, Close: 418.410000, Volume: 209, Average: 418.194000, BarCount: 139}
+2024-11-11 13:02:36,329 INFO:ANSWER historicalDataEnd {'reqId': 1, 'start': '20241111  12:47:36', 'end': '20241111  13:02:36'}
+2024-11-11 13:03:10,719 INFO:sent startApi
+2024-11-11 13:03:10,719 INFO:REQUEST startApi {}
+2024-11-11 13:03:10,719 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 13:03:10,719 INFO:ANSWER connectAck {}
+2024-11-11 13:03:10,719 INFO:IB API connection started.
+2024-11-11 13:03:10,719 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4405974160: 0,MSFT,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '900 S', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 13:03:10,720 INFO:SENDING reqHistoricalData b'\x00\x00\x00B20\x001\x000\x00MSFT\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x00900 S\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 13:03:10,924 INFO:disconnecting
+2024-11-11 13:03:10,925 INFO:ANSWER connectionClosed {}
+2024-11-11 13:07:08,264 INFO:sent startApi
+2024-11-11 13:07:08,264 INFO:REQUEST startApi {}
+2024-11-11 13:07:08,264 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 13:07:08,264 INFO:ANSWER connectAck {}
+2024-11-11 13:07:08,264 INFO:IB API connection started.
+2024-11-11 13:07:08,264 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4446516768: 0,MSFT,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '900 S', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 13:07:08,264 INFO:SENDING reqHistoricalData b'\x00\x00\x00B20\x001\x000\x00MSFT\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x00900 S\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 13:07:08,467 INFO:disconnecting
+2024-11-11 13:07:08,467 INFO:ANSWER connectionClosed {}
+2024-11-11 13:08:08,522 ERROR:Timeout: Data was not received within the expected time frame.
+2024-11-11 13:08:08,524 INFO:IB API connection closed.
+2024-11-11 13:12:26,152 INFO:sent startApi
+2024-11-11 13:12:26,152 INFO:REQUEST startApi {}
+2024-11-11 13:12:26,152 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 13:12:26,152 INFO:ANSWER connectAck {}
+2024-11-11 13:12:26,153 INFO:IB API connection started.
+2024-11-11 13:12:26,153 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4379414880: 0,MSFT,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '900 S', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 13:12:26,153 INFO:SENDING reqHistoricalData b'\x00\x00\x00B20\x001\x000\x00MSFT\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x00900 S\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 13:12:26,358 INFO:disconnecting
+2024-11-11 13:12:26,358 INFO:ANSWER connectionClosed {}
+2024-11-11 13:12:37,329 INFO:IB API connection closed.
+2024-11-11 13:13:24,044 INFO:sent startApi
+2024-11-11 13:13:24,044 INFO:REQUEST startApi {}
+2024-11-11 13:13:24,045 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 13:13:24,045 INFO:ANSWER connectAck {}
+2024-11-11 13:13:24,045 INFO:IB API connection started.
+2024-11-11 13:13:24,045 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4395867680: 0,MSFT,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '900 S', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 13:13:24,045 INFO:SENDING reqHistoricalData b'\x00\x00\x00B20\x001\x000\x00MSFT\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x00900 S\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 13:13:24,053 INFO:ANSWER managedAccounts {'accountsList': 'DU7739458'}
+2024-11-11 13:13:24,054 INFO:ANSWER nextValidId {'orderId': 1}
+2024-11-11 13:13:24,054 INFO:Next valid order ID: 1
+2024-11-11 13:13:24,057 ERROR:Error 2104: Market data farm connection is OK:hfarm
+2024-11-11 13:13:24,057 ERROR:Error 2104: Market data farm connection is OK:usfarm.nj
+2024-11-11 13:13:24,057 ERROR:Error 2104: Market data farm connection is OK:jfarm
+2024-11-11 13:13:24,057 ERROR:Error 2104: Market data farm connection is OK:usfuture
+2024-11-11 13:13:24,057 ERROR:Error 2104: Market data farm connection is OK:cashfarm
+2024-11-11 13:13:24,057 ERROR:Error 2104: Market data farm connection is OK:eufarmnj
+2024-11-11 13:13:24,057 ERROR:Error 2104: Market data farm connection is OK:usfarm
+2024-11-11 13:13:24,057 ERROR:Error 2106: HMDS data farm connection is OK:euhmds
+2024-11-11 13:13:24,057 ERROR:Error 2106: HMDS data farm connection is OK:fundfarm
+2024-11-11 13:13:24,057 ERROR:Error 2106: HMDS data farm connection is OK:ushmds
+2024-11-11 13:13:24,057 ERROR:Error 2158: Sec-def data farm connection is OK:secdefil
+2024-11-11 13:13:24,170 ERROR:Error 2176: Warning: Your API version does not support fractional share size rules. Please upgrade to a minimum version 163. Trimmed value 500.22 to 500
+2024-11-11 13:13:24,170 INFO:ANSWER historicalData {'reqId': 1, 'bar': 4408564560: Date: 20241111  12:55:00, Open: 417.780000, High: 417.780000, Low: 417.370000, Close: 417.370000, Volume: 500, Average: 417.467000, BarCount: 329}
+2024-11-11 13:13:24,170 INFO:ANSWER historicalDataEnd {'reqId': 1, 'start': '20241111  12:58:23', 'end': '20241111  13:13:23'}
+2024-11-11 13:14:24,275 ERROR:Timeout: Data was not received within the expected time frame.
+2024-11-11 13:14:24,277 INFO:disconnecting
+2024-11-11 13:14:24,278 INFO:ANSWER connectionClosed {}
+2024-11-11 13:14:24,278 INFO:IB API connection closed.
+2024-11-11 13:14:28,799 INFO:sent startApi
+2024-11-11 13:14:28,799 INFO:REQUEST startApi {}
+2024-11-11 13:14:28,799 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 13:14:28,799 INFO:ANSWER connectAck {}
+2024-11-11 13:14:28,799 INFO:IB API connection started.
+2024-11-11 13:14:28,799 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4608999344: 0,MSFT,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '900 S', 'barSizeSetting': '5 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 13:14:28,799 INFO:SENDING reqHistoricalData b'\x00\x00\x00B20\x001\x000\x00MSFT\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x005 mins\x00900 S\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 13:14:29,004 INFO:disconnecting
+2024-11-11 13:14:29,004 INFO:ANSWER connectionClosed {}
+2024-11-11 13:14:48,867 ERROR:Timeout: Data was not received within the expected time frame.
+2024-11-11 13:14:48,869 INFO:IB API connection closed.
+2024-11-11 13:15:00,258 INFO:sent startApi
+2024-11-11 13:15:00,259 INFO:REQUEST startApi {}
+2024-11-11 13:15:00,259 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 13:15:00,259 INFO:ANSWER connectAck {}
+2024-11-11 13:15:00,259 INFO:IB API connection started.
+2024-11-11 13:15:00,259 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4415058624: 0,MSFT,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '900 S', 'barSizeSetting': '1 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 13:15:00,259 INFO:SENDING reqHistoricalData b'\x00\x00\x00B20\x001\x000\x00MSFT\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x001 mins\x00900 S\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 13:15:00,464 INFO:disconnecting
+2024-11-11 13:15:00,464 INFO:ANSWER connectionClosed {}
+2024-11-11 13:15:20,315 ERROR:Timeout: Data was not received within the expected time frame.
+2024-11-11 13:15:20,315 INFO:IB API connection closed.
+2024-11-11 13:15:48,943 INFO:sent startApi
+2024-11-11 13:15:48,943 INFO:REQUEST startApi {}
+2024-11-11 13:15:48,943 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 13:15:48,943 INFO:ANSWER connectAck {}
+2024-11-11 13:15:48,943 INFO:IB API connection started.
+2024-11-11 13:15:48,944 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4360607104: 0,MSFT,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '900 S', 'barSizeSetting': '1 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 13:15:48,944 INFO:SENDING reqHistoricalData b'\x00\x00\x00B20\x001\x000\x00MSFT\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x001 mins\x00900 S\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 13:15:48,952 INFO:ANSWER managedAccounts {'accountsList': 'DU7739458'}
+2024-11-11 13:15:48,952 INFO:ANSWER nextValidId {'orderId': 1}
+2024-11-11 13:15:48,952 INFO:Next valid order ID: 1
+2024-11-11 13:15:48,953 ERROR:Error 2104: Market data farm connection is OK:hfarm
+2024-11-11 13:15:48,954 ERROR:Error 2104: Market data farm connection is OK:usfarm.nj
+2024-11-11 13:15:48,954 ERROR:Error 2104: Market data farm connection is OK:jfarm
+2024-11-11 13:15:48,954 ERROR:Error 2104: Market data farm connection is OK:usfuture
+2024-11-11 13:15:48,954 ERROR:Error 2104: Market data farm connection is OK:cashfarm
+2024-11-11 13:15:48,954 ERROR:Error 2104: Market data farm connection is OK:eufarmnj
+2024-11-11 13:15:48,954 ERROR:Error 2104: Market data farm connection is OK:usfarm
+2024-11-11 13:15:48,954 ERROR:Error 2106: HMDS data farm connection is OK:euhmds
+2024-11-11 13:15:48,954 ERROR:Error 2106: HMDS data farm connection is OK:fundfarm
+2024-11-11 13:15:48,954 ERROR:Error 2106: HMDS data farm connection is OK:ushmds
+2024-11-11 13:15:48,954 ERROR:Error 2158: Sec-def data farm connection is OK:secdefil
+2024-11-11 13:15:48,957 ERROR:Error 321: Error validating request.-'bK' : cause - Historical data bar size setting is invalid. Legal ones are: 1 secs, 5 secs, 10 secs, 15 secs, 30 secs, 1 min, 2 mins, 3 mins, 5 mins, 10 mins, 15 mins, 20 mins, 30 mins, 1 hour, 2 hours, 3 hours, 4 hours, 8 hours, 1 day, 1W, 1M
+2024-11-11 13:16:09,022 ERROR:Timeout: Data was not received within the expected time frame.
+2024-11-11 13:16:09,023 INFO:disconnecting
+2024-11-11 13:16:09,023 INFO:ANSWER connectionClosed {}
+2024-11-11 13:16:09,023 INFO:IB API connection closed.
+2024-11-11 13:20:43,178 INFO:sent startApi
+2024-11-11 13:20:43,178 INFO:REQUEST startApi {}
+2024-11-11 13:20:43,178 INFO:SENDING startApi b'\x00\x00\x00\x0871\x002\x001\x00\x00'
+2024-11-11 13:20:43,178 INFO:ANSWER connectAck {}
+2024-11-11 13:20:43,178 INFO:IB API connection started.
+2024-11-11 13:20:43,178 INFO:REQUEST reqHistoricalData {'reqId': 1, 'contract': 4589122240: 0,MSFT,STK,,0.0,,,SMART,,USD,,,False,,combo:, 'endDateTime': '', 'durationStr': '900 S', 'barSizeSetting': '1 mins', 'whatToShow': 'TRADES', 'useRTH': 1, 'formatDate': 1, 'keepUpToDate': False, 'chartOptions': []}
+2024-11-11 13:20:43,178 INFO:SENDING reqHistoricalData b'\x00\x00\x00B20\x001\x000\x00MSFT\x00STK\x00\x000.0\x00\x00\x00SMART\x00\x00USD\x00\x00\x000\x00\x001 mins\x00900 S\x001\x00TRADES\x001\x000\x00\x00'
+2024-11-11 13:20:43,379 INFO:disconnecting
+2024-11-11 13:20:43,379 INFO:ANSWER connectionClosed {}
+2024-11-11 13:20:48,358 INFO:IB API connection closed.
